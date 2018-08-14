@@ -1,4 +1,4 @@
-# MetodosNumericos
+# Métodos Numéricos 
 
 ## Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas del Instituto Politécnico Nacional
 
