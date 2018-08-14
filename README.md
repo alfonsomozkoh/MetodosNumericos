@@ -6,5 +6,7 @@ Este programa recopila los ejercicios realizados en la asignatura de Métodos N�
 
 Ciudad de México, Agosto del 2018
 
-Contacto: alfonsomozkoh@gmail.com
-Email: <http://alfonsomozkoh.github.io/>
+Contacto:
+
++ Email: [alfonsomozkoh@vivaldi.net](mailto:alfonsomozkoh@vivaldi.net)
++ Blog: <http://alfonsomozkoh.github.io/>
